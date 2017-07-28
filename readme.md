@@ -10,8 +10,11 @@ a main class.
 
 ### Releases
 
-#### 1.3.1
+#### 1.3.2
 * Enable `skipExtendedAuth` for `docker-maven-plugin`
+
+#### 1.3.1
+* Broken build, do not use.
 
 #### 1.3.0
 * Upgraded parent POM, `com.mainstreethub:parent-pom`, to 1.6.0
