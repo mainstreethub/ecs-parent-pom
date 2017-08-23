@@ -6,5 +6,7 @@ def notifier = new Notifier([
   ownerChannels: ["infrastructure-notify"]
 ])
 
-new Pipeline(this)
-  .run([notifier: notifier])
+new Pipeline(this).run([
+  notifier: notifier,
+  isOpenSource: true
+])
