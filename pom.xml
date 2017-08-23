@@ -14,8 +14,8 @@
 
   <scm>    
     <url>https://github.com/mainstreethub/ecs-parent-pom</url>   
-    <connection>scm:git:git@github.com:mainstreethub/ecs-parent-pom</connection>   
-    <developerConnection>scm:git:git@github.com:mainstreethub/ecs-parent-pom</developerConnection>   
+    <connection>scm:git:https://github.com/mainstreethub/ecs-parent-pom</connection>   
+    <developerConnection>scm:git:https://github.com/mainstreethub/ecs-parent-pom</developerConnection>   
     <tag>HEAD</tag>    
   </scm>
 
