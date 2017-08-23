@@ -12,6 +12,13 @@
   <version>1.3.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <scm>    
+    <url>https://github.com/mainstreethub/ecs-parent-pom</url>   
+    <connection>scm:git:git@github.com:mainstreethub/ecs-parent-pom</connection>   
+    <developerConnection>scm:git:git@github.com:mainstreethub/ecs-parent-pom</developerConnection>   
+    <tag>HEAD</tag>    
+  </scm>
+
   <properties>
     <docker.maven.plugin.version>0.20.1</docker.maven.plugin.version>
     <ecr.maven.plugin.version>0.1.0</ecr.maven.plugin.version>
